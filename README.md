@@ -1,4 +1,4 @@
-#Insights from the "Spotify Users Analysis Trends for Year 2023" Dashboard:
+# Insights from the "Spotify Users Analysis Trends for Year 2023" Dashboard:
 
 ![spotify dashboard](https://github.com/user-attachments/assets/b55bb8c8-0363-44a4-91c7-39d5ae17555c)
 
